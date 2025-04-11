@@ -1,0 +1,1001 @@
+Age,Salary,Years_of_Experience,Department,Location,Performance_Score,Gender,Education_Level
+56,64674,11,Sales,San Francisco,3.3814386450344163,Female,Master
+69,65854,2,Sales,Los Angeles,1.6884424112911107,Male,Bachelor
+46,76271,44,Marketing,San Francisco,4.702088831407524,Male,High School
+32,103688,17,HR,Los Angeles,1.2733364193824168,Male,High School
+60,68518,39,Marketing,New York,2.721498998763173,Male,PhD
+25,40267,20,Engineering,Chicago,3.7831899106217795,Female,Bachelor
+38,31062,14,Sales,San Francisco,2.832088846673035,Female,High School
+56,80448,32,Sales,San Francisco,1.3683810129316094,Male,Bachelor
+36,36229,34,Marketing,Los Angeles,3.2135160645068295,Male,High School
+40,86793,25,Sales,Los Angeles,3.566527635309418,Female,Master
+28,77915,7,Engineering,San Francisco,3.8151692439620306,Male,High School
+28,34632,35,Sales,Los Angeles,2.4930392578510356,Female,PhD
+41,33596,29,Marketing,San Francisco,3.254639884115049,Male,Master
+53,36168,22,Engineering,San Francisco,2.8027458997556525,Female,PhD
+57,37561,41,Marketing,San Francisco,3.6882241550090136,Female,Master
+41,103794,43,Sales,New York,3.334227869299274,Female,Bachelor
+20,112152,13,Marketing,Los Angeles,3.1030248782365395,Female,PhD
+39,56734,13,Marketing,Chicago,1.9980974673529945,Female,High School
+19,36371,1,HR,Chicago,1.0080740709929357,Male,Bachelor
+41,56069,36,Sales,Los Angeles,1.696326701245717,Female,High School
+61,109905,4,Sales,San Francisco,1.4682641656966746,Male,Master
+47,42910,37,Marketing,Chicago,2.796338980043787,Female,Master
+55,103479,44,HR,Chicago,3.4490326030473786,Female,High School
+19,107735,40,Sales,Los Angeles,1.8523400347392327,Male,High School
+38,111264,13,Engineering,Chicago,4.7562283838687485,Male,Bachelor
+50,53275,38,Marketing,San Francisco,1.0267285168955511,Male,High School
+29,102274,24,Sales,Los Angeles,4.0892040606613715,Male,PhD
+39,111449,19,Engineering,San Francisco,3.500819078121769,Female,PhD
+61,90004,1,Sales,Chicago,2.4942192041907276,Male,High School
+42,92981,38,Engineering,Chicago,1.2019557776496317,Female,PhD
+66,114659,5,Marketing,San Francisco,3.5099462871371174,Male,High School
+44,84553,16,Sales,New York,2.542454051462592,Male,Bachelor
+59,78447,24,Sales,Chicago,4.745068557652877,Female,PhD
+45,64529,27,HR,New York,3.1679602995590637,Female,PhD
+33,105703,1,Marketing,Chicago,4.758606045174033,Male,High School
+32,106090,34,Engineering,New York,1.8819347738932164,Female,PhD
+64,47260,36,Sales,New York,3.902903641456413,Female,Master
+68,33812,4,Sales,New York,3.4689960833949027,Female,Bachelor
+61,58024,0,Engineering,San Francisco,3.9576329193252473,Female,Bachelor
+69,88656,39,Marketing,New York,1.8586714558901472,Female,PhD
+20,57285,11,HR,New York,3.659978064951095,Female,PhD
+54,31605,35,HR,New York,2.992161572227476,Female,Master
+68,101158,44,Sales,Chicago,3.971299899625265,Female,Master
+24,102303,22,Engineering,New York,2.308178576607271,Male,PhD
+38,57139,30,Sales,Chicago,4.560228101861011,Female,PhD
+26,107149,10,Engineering,New York,1.3372052584454015,Male,Master
+56,86138,9,HR,New York,4.228757275164752,Female,High School
+35,106125,2,Marketing,San Francisco,4.445278503260363,Female,Master
+21,43918,13,Engineering,Chicago,4.269009245467284,Female,High School
+42,115655,15,HR,New York,3.050905577047104,Female,Bachelor
+31,57446,9,Sales,Chicago,2.7535399201230453,Male,Bachelor
+67,43046,28,Engineering,Chicago,4.985049146099508,Male,Master
+26,54818,9,Marketing,Los Angeles,1.9166878048566485,Female,High School
+43,34324,11,Sales,San Francisco,3.1875038635041784,Male,Master
+19,106323,29,Sales,San Francisco,3.682702101529302,Female,Master
+37,39111,40,HR,San Francisco,3.803470543445728,Female,High School
+45,68110,0,Engineering,Los Angeles,1.8160986629543148,Male,Master
+64,46389,4,Sales,Los Angeles,3.615976369359205,Male,Bachelor
+24,71427,19,Marketing,San Francisco,4.273478265925349,Female,PhD
+61,109579,7,Engineering,Los Angeles,1.2000743072844489,Female,PhD
+25,58746,42,Marketing,Los Angeles,4.646085173301266,Male,Master
+64,117886,11,Sales,Los Angeles,1.1180162205808237,Female,High School
+52,30117,0,Marketing,San Francisco,2.4238841299535774,Male,High School
+31,114471,19,HR,San Francisco,1.0632527849318483,Female,Bachelor
+34,43234,27,Marketing,San Francisco,1.3085806741583275,Female,High School
+53,83441,42,Engineering,Los Angeles,4.644673140720316,Male,High School
+67,30846,36,Marketing,San Francisco,2.4194433229845913,Male,Bachelor
+57,40954,36,Marketing,Los Angeles,2.6990861217002116,Male,Master
+21,109239,11,HR,New York,1.8613775255302105,Female,PhD
+19,76514,36,Marketing,Los Angeles,3.388383080746879,Female,Bachelor
+23,118236,43,Marketing,Chicago,3.3792128587111585,Female,Master
+59,36469,27,Sales,San Francisco,2.488801567300877,Female,Bachelor
+21,60105,14,Sales,San Francisco,2.3321394872215935,Male,Master
+46,72101,5,Engineering,Chicago,4.539857232722351,Female,Bachelor
+35,94323,43,Sales,Los Angeles,2.5331369585688055,Female,Master
+43,88067,19,Sales,New York,2.974003968617633,Female,Bachelor
+61,79376,13,Sales,Chicago,2.1332190496997225,Male,Master
+51,75587,1,Sales,Chicago,4.1470780134285095,Female,Bachelor
+27,66976,8,HR,Los Angeles,2.5897926275963665,Female,PhD
+53,97584,36,Sales,San Francisco,3.054444186177298,Male,PhD
+31,108477,19,HR,Los Angeles,2.0134286802386456,Female,High School
+48,72533,25,HR,Chicago,4.950638369365008,Female,Master
+65,31828,28,Sales,Chicago,2.1659829636948915,Male,Bachelor
+32,31917,0,Marketing,San Francisco,4.082970123622207,Female,Master
+25,50618,34,HR,San Francisco,2.7099826014270367,Female,PhD
+31,62254,5,Marketing,San Francisco,1.8248696203365595,Female,Master
+40,77362,36,Marketing,Los Angeles,4.198875055859444,Male,Bachelor
+57,50128,4,Sales,San Francisco,2.3344271561161727,Female,Master
+38,89383,32,Engineering,Chicago,4.460773389591244,Female,Bachelor
+33,95545,13,Sales,Chicago,4.661028739671292,Male,PhD
+62,112180,11,Engineering,New York,4.439295341565104,Male,PhD
+35,117958,41,Engineering,Los Angeles,1.1400316592272226,Female,PhD
+64,39865,19,Sales,New York,4.149493380020422,Female,High School
+41,32219,23,Sales,Chicago,2.6453578659965755,Female,PhD
+43,69809,42,Engineering,New York,4.4948916807289,Female,Master
+42,35287,33,Sales,Chicago,3.551817050738955,Male,High School
+62,64387,24,Engineering,New York,4.334572536575834,Female,PhD
+58,38512,28,Marketing,San Francisco,2.9977270794673414,Male,Master
+46,31342,38,Sales,New York,3.1401020183957313,Male,Master
+32,93076,30,Marketing,San Francisco,1.577550528534669,Female,Master
+62,49216,42,HR,San Francisco,4.135949434757421,Female,Bachelor
+18,109767,22,Marketing,Los Angeles,2.6775584466678866,Male,High School
+42,56614,43,Marketing,San Francisco,3.0003204730863304,Male,Master
+24,66258,37,Engineering,San Francisco,4.14039085638283,Female,Bachelor
+26,72078,19,Marketing,New York,3.395381600317756,Male,PhD
+41,113524,22,Sales,Chicago,1.8043949097706697,Female,Master
+18,42219,44,Engineering,Los Angeles,3.360930636603571,Female,Bachelor
+61,30235,15,HR,San Francisco,2.630531431918623,Male,Master
+25,72929,41,Sales,Los Angeles,2.8781021681754506,Male,High School
+41,97444,7,HR,New York,1.1132450976106711,Female,High School
+28,38567,20,Marketing,San Francisco,1.8401173980651264,Male,PhD
+68,100792,0,Sales,New York,2.124152325524113,Female,Master
+34,95441,7,Sales,Los Angeles,3.851840031435223,Female,Bachelor
+25,114555,28,HR,New York,1.0459698931924613,Female,PhD
+52,103698,31,Sales,Los Angeles,2.635109044916528,Male,Master
+52,35415,37,Sales,New York,4.696107481702931,Female,PhD
+50,66159,4,Sales,Los Angeles,1.4475224661964954,Female,Bachelor
+22,73925,21,Marketing,Chicago,3.065697552874444,Female,PhD
+59,35951,33,HR,New York,4.146089529563389,Female,PhD
+56,117388,0,Sales,New York,4.770125230080467,Female,PhD
+58,38007,25,Engineering,Chicago,3.987106558134872,Female,Master
+45,71832,42,Engineering,Chicago,3.8822621945776246,Female,Bachelor
+24,88596,9,Engineering,New York,4.305952360783049,Female,High School
+26,60523,29,Engineering,Chicago,2.7848048839101747,Female,Master
+25,118861,17,Marketing,San Francisco,4.223378130471332,Female,High School
+29,116740,16,Sales,Los Angeles,1.0318576189818045,Female,High School
+51,45524,25,HR,Los Angeles,4.6982442215072195,Male,Master
+50,49282,7,Sales,Los Angeles,2.7732260380687013,Female,Master
+65,53930,39,Marketing,San Francisco,3.2135207514629904,Female,Bachelor
+40,30077,11,Engineering,Chicago,2.0195289956595293,Female,Bachelor
+41,50611,26,Marketing,Chicago,3.9701233313616857,Male,PhD
+54,46984,7,Sales,New York,1.3065432259009953,Female,High School
+52,44060,24,HR,Chicago,4.490543210187341,Male,Bachelor
+61,112985,3,Marketing,New York,4.312467316025371,Female,PhD
+57,114056,32,HR,San Francisco,1.8642404649790656,Female,Bachelor
+39,73303,0,Marketing,Los Angeles,4.237297593141049,Male,Master
+44,89207,18,HR,Los Angeles,4.145430932245926,Female,Bachelor
+52,105046,30,HR,Los Angeles,3.528866391015796,Male,High School
+18,59287,15,Engineering,Chicago,2.49408070759875,Male,Bachelor
+52,69711,13,HR,New York,2.0859950167274715,Female,High School
+54,41954,4,Engineering,New York,1.9271343611574,Female,Master
+64,103340,40,Sales,San Francisco,2.2744358510544287,Female,High School
+31,102101,25,Sales,Chicago,4.614233773730121,Female,Bachelor
+20,101520,27,Engineering,San Francisco,1.310563103955125,Male,PhD
+18,117062,1,Engineering,New York,4.315485105011835,Male,Master
+22,48574,5,Marketing,New York,2.3955603001672943,Female,Bachelor
+43,39184,8,Marketing,Los Angeles,3.0863975840454327,Male,Master
+31,49096,32,Marketing,Chicago,4.177942534593963,Male,Master
+56,97728,40,Sales,New York,4.537506188091886,Female,Bachelor
+44,64016,24,Marketing,Los Angeles,2.379125680290588,Male,Bachelor
+26,41246,12,HR,Chicago,2.8473739251004413,Male,PhD
+32,75558,8,HR,San Francisco,2.658064259267169,Female,Master
+32,48381,12,Marketing,Chicago,1.0530041340156422,Male,Master
+43,66455,30,HR,Chicago,2.1837715554346264,Female,Bachelor
+59,34018,40,Sales,New York,2.8367569349302473,Male,High School
+30,41302,10,HR,New York,2.644374435521759,Female,Bachelor
+68,97506,3,Sales,Chicago,3.887716910062718,Male,Master
+49,71157,33,Engineering,New York,2.539214468884413,Male,Bachelor
+56,84917,37,Engineering,New York,2.957505795882681,Female,PhD
+66,113122,3,Engineering,New York,2.7184343685294534,Female,High School
+69,54519,37,Engineering,Los Angeles,3.962504595577482,Female,Bachelor
+49,117487,18,HR,Los Angeles,4.451889595947851,Female,PhD
+21,86819,5,Marketing,Chicago,3.1275563160300566,Male,Master
+47,110910,33,HR,New York,4.157728776780765,Male,Bachelor
+54,101324,17,Sales,Los Angeles,2.1871467280794024,Male,Master
+40,35408,12,HR,Chicago,3.165478440629075,Female,PhD
+56,89379,40,HR,New York,2.38091981467989,Male,Master
+62,55053,22,Sales,San Francisco,2.656803702287321,Male,PhD
+32,39446,18,Engineering,New York,3.9296554592506743,Female,PhD
+60,30922,44,Engineering,New York,4.526649929330851,Female,PhD
+46,81356,10,Engineering,Los Angeles,1.4859815643510617,Male,Bachelor
+53,40789,0,Marketing,Chicago,3.538557025949522,Female,Master
+30,96656,23,Sales,Chicago,3.328575230311194,Male,Master
+49,74028,6,Sales,Los Angeles,1.4736601567037275,Male,High School
+24,94484,24,HR,New York,1.8475773217604363,Female,High School
+68,62154,20,Marketing,San Francisco,2.244009978930721,Male,High School
+39,112870,14,Engineering,New York,1.6677242832700059,Female,High School
+45,32336,0,Marketing,New York,1.9749179300973672,Female,Master
+19,97779,11,Sales,San Francisco,2.07040319544683,Male,PhD
+59,49029,6,Sales,Los Angeles,2.3426953321562385,Male,PhD
+62,89201,14,HR,Chicago,3.997561811204636,Male,Bachelor
+23,62265,20,HR,Los Angeles,3.287648815402403,Female,PhD
+45,73872,18,Sales,Los Angeles,4.944986687805606,Male,Master
+45,76197,28,Engineering,New York,2.658943307869884,Female,Master
+61,85180,24,Engineering,Chicago,4.0154602953477,Female,Master
+61,53710,32,Marketing,Chicago,4.485873685506135,Male,Bachelor
+37,59486,31,Sales,Los Angeles,3.7159139721521677,Female,High School
+47,101907,34,Sales,San Francisco,2.647458961669984,Male,PhD
+28,101895,43,Engineering,Los Angeles,4.014378522983012,Male,Master
+45,94435,37,Engineering,San Francisco,1.8146685510907394,Male,Master
+42,70631,25,Sales,Chicago,2.3102086607205297,Male,High School
+56,50103,10,HR,Los Angeles,3.186741020397155,Male,Master
+50,94772,34,Sales,New York,3.3016375491445933,Male,PhD
+18,44382,7,Sales,Los Angeles,1.0885659018905178,Male,Bachelor
+44,114291,13,Engineering,Chicago,4.780456755024035,Female,Master
+69,33756,9,Engineering,New York,3.78650908486956,Male,PhD
+30,50609,1,HR,New York,2.9828150009275642,Female,Master
+58,46478,8,HR,San Francisco,4.732508937633233,Female,High School
+20,69666,2,Marketing,New York,2.756382261003314,Female,Master
+56,105683,20,Sales,New York,4.921742281081487,Male,Master
+23,101315,25,Engineering,Los Angeles,3.0491390289739404,Female,Bachelor
+25,107834,7,HR,Chicago,1.4571430799919178,Female,High School
+44,44153,1,Marketing,San Francisco,4.059203889837109,Male,High School
+26,106325,5,Marketing,Los Angeles,3.715590900311362,Male,Bachelor
+54,42999,27,Engineering,New York,4.091946885222347,Female,Master
+50,85318,28,Engineering,New York,4.805768114902724,Male,PhD
+68,30814,25,Marketing,San Francisco,4.105957210604073,Male,High School
+59,106077,24,HR,Chicago,3.4453464088665875,Male,High School
+61,32443,11,Marketing,San Francisco,4.429235609443364,Male,Master
+41,105993,4,Sales,Los Angeles,3.692985757418126,Female,Master
+32,105916,33,Sales,San Francisco,2.6324762273036924,Male,High School
+49,103319,36,Engineering,New York,4.5424790569670925,Male,Master
+49,47368,14,HR,Los Angeles,1.8876018431374915,Male,PhD
+41,45328,43,HR,New York,3.858565099634897,Female,High School
+58,86942,35,Sales,Chicago,4.526253819763028,Female,PhD
+69,57306,14,Marketing,New York,3.925266078813185,Male,PhD
+66,115451,42,Engineering,New York,3.7891016762154277,Male,Master
+66,69915,22,Marketing,San Francisco,4.010553176287344,Female,PhD
+69,67219,5,Marketing,New York,2.8602209932025775,Male,Master
+29,110879,43,Marketing,Los Angeles,4.4966827286281035,Male,Bachelor
+56,94644,42,HR,Los Angeles,1.8137459005443648,Female,Master
+19,90279,44,Sales,Chicago,1.5095456640013571,Male,PhD
+20,83028,20,HR,Los Angeles,2.142035120474046,Male,Bachelor
+66,30126,22,Sales,San Francisco,3.1263095870999726,Female,Master
+54,82329,42,Engineering,Chicago,3.0422471816373524,Female,PhD
+66,57632,15,Engineering,Los Angeles,4.282395030706347,Male,High School
+34,95310,14,Marketing,San Francisco,2.6182746256160696,Female,High School
+66,85176,24,Sales,Los Angeles,2.9373777051660346,Male,Master
+19,116066,35,Sales,Los Angeles,1.0534707330375825,Male,Master
+19,74327,10,Sales,New York,2.6389569457717563,Male,High School
+45,98904,14,Marketing,Los Angeles,3.5910969318013684,Female,PhD
+40,33797,3,Marketing,Los Angeles,1.0620333225063687,Female,PhD
+54,77882,20,Engineering,San Francisco,2.123527860744975,Male,PhD
+49,43718,12,HR,San Francisco,1.8318254371575597,Male,Master
+50,64560,21,Sales,New York,1.167941715638353,Female,Bachelor
+18,106589,18,Sales,Los Angeles,2.91704035965815,Female,Bachelor
+36,52116,33,HR,New York,1.726893172912626,Female,Bachelor
+19,66244,13,Sales,Los Angeles,3.9723261585255205,Male,Bachelor
+61,31645,3,Marketing,Chicago,4.391711535053394,Female,Bachelor
+43,77523,26,Marketing,Chicago,3.182340730676591,Female,Master
+49,49256,28,Sales,New York,4.926829370084566,Male,Master
+23,83173,27,Marketing,New York,2.8019142858823813,Male,Bachelor
+49,67430,34,Marketing,New York,3.053472840899662,Male,Master
+21,69282,7,Sales,San Francisco,4.956871015831,Female,Master
+28,93374,15,Engineering,San Francisco,1.9261937438601953,Male,Bachelor
+34,98244,41,HR,San Francisco,4.770183758707621,Male,PhD
+55,41694,35,Marketing,New York,1.171350220476453,Male,Master
+41,86264,29,Engineering,Los Angeles,2.785547561052779,Male,PhD
+22,105060,17,Marketing,Chicago,1.280014048532263,Female,Master
+69,87545,1,Marketing,New York,3.916938971654572,Male,Master
+51,69224,12,HR,San Francisco,3.433635743520071,Female,Bachelor
+23,43224,3,Marketing,San Francisco,3.8265370538703856,Female,Master
+39,70738,25,HR,New York,2.497921599872068,Female,High School
+28,55150,24,HR,New York,2.477927736125521,Male,High School
+65,93731,29,HR,San Francisco,1.1812771158435784,Female,Bachelor
+33,79688,10,Engineering,Los Angeles,2.399779758118559,Male,PhD
+50,103509,6,Sales,San Francisco,4.717153609048237,Male,PhD
+26,38577,30,Engineering,San Francisco,2.516906148721796,Male,PhD
+23,38070,43,Sales,New York,4.32547082488788,Female,High School
+33,38666,9,Sales,Los Angeles,4.369302018999736,Male,PhD
+46,87761,38,HR,San Francisco,2.4929646255169353,Male,PhD
+20,66368,12,Marketing,San Francisco,3.527954721584756,Male,Bachelor
+37,36783,30,HR,Chicago,1.3814864090922345,Female,PhD
+53,71914,6,Marketing,New York,1.414714322937106,Female,High School
+36,100507,41,Sales,Chicago,1.1946306546468533,Female,High School
+43,109026,41,HR,Chicago,3.324060373500438,Male,High School
+20,97526,35,Marketing,San Francisco,2.704283910504388,Female,Bachelor
+36,100835,19,Engineering,New York,3.1921294266569604,Male,Bachelor
+37,75765,3,Marketing,Los Angeles,3.0842927620335514,Male,Master
+49,49956,6,HR,San Francisco,2.400811964362921,Female,PhD
+24,117895,0,Engineering,Los Angeles,3.7098936592938916,Male,Bachelor
+69,76240,43,Marketing,Los Angeles,4.034007523665563,Female,High School
+58,67148,44,Marketing,New York,1.0585130355107029,Male,High School
+50,34757,41,Marketing,Chicago,1.8289691990755133,Female,Bachelor
+57,49097,12,Marketing,New York,3.8529434723333473,Male,Bachelor
+56,40395,21,Marketing,Los Angeles,2.5464806905353368,Male,Bachelor
+35,46241,20,Engineering,San Francisco,3.6499357877664327,Male,Master
+57,57696,21,Sales,Los Angeles,2.3878506389382337,Male,High School
+18,100480,27,Engineering,San Francisco,2.5630206093185484,Male,Master
+28,76163,8,Engineering,San Francisco,1.6347154947587397,Female,Master
+45,49816,25,Engineering,New York,2.03292407866464,Male,PhD
+42,79840,8,Sales,Los Angeles,3.421647030030349,Female,High School
+67,82853,14,HR,Chicago,2.7326524452606655,Female,High School
+40,54917,9,Sales,Los Angeles,4.097210731778381,Female,Bachelor
+48,51566,23,Engineering,Los Angeles,4.410339819753371,Male,Bachelor
+47,105452,41,Marketing,Chicago,3.1665856728670394,Male,PhD
+59,92823,7,Marketing,New York,4.0330691682242366,Male,Master
+52,50806,23,Engineering,Los Angeles,2.22761805277828,Female,Bachelor
+24,105520,15,Marketing,Los Angeles,2.659884861600313,Male,Bachelor
+33,31759,25,Engineering,San Francisco,3.851110704867324,Male,High School
+43,71949,26,Marketing,Los Angeles,2.5448479712681227,Female,High School
+65,32482,36,Sales,Chicago,3.3540197406359553,Female,Bachelor
+69,54442,3,HR,San Francisco,1.741491116330046,Female,High School
+66,63719,23,HR,New York,3.399085259881992,Female,PhD
+19,88066,18,Sales,San Francisco,4.446054828907574,Female,Bachelor
+18,32079,35,Sales,Chicago,4.474558559293703,Female,High School
+65,32717,38,Engineering,Chicago,3.8973776253181587,Male,PhD
+29,89676,9,Engineering,San Francisco,3.983013516304504,Female,High School
+22,57952,24,Engineering,New York,3.231709780602803,Male,High School
+54,116444,17,Marketing,San Francisco,3.338672360663299,Male,High School
+49,72460,18,Engineering,New York,1.534602325642072,Male,Bachelor
+26,102847,35,Sales,San Francisco,2.7754367536852045,Female,Master
+58,119106,9,HR,Chicago,2.8031051355454553,Male,High School
+52,48449,32,Marketing,Los Angeles,4.833991342670961,Female,PhD
+36,63536,4,Engineering,Los Angeles,2.7243474504931577,Female,Bachelor
+65,94077,34,Marketing,New York,3.1973705796110305,Male,Bachelor
+33,68258,43,Marketing,New York,3.13300559711641,Female,PhD
+20,78302,33,Engineering,New York,3.5470468681773086,Male,High School
+37,58865,32,Marketing,Chicago,3.9929313253275835,Male,Master
+41,36645,20,HR,San Francisco,1.9001675046834885,Female,High School
+50,68000,16,Sales,Chicago,3.114897676393743,Male,PhD
+41,56737,21,Sales,Los Angeles,4.303670829264122,Male,Bachelor
+69,41485,36,HR,New York,2.852458855350046,Male,Master
+28,68565,14,Marketing,San Francisco,2.113830185494292,Female,Bachelor
+66,55522,34,Engineering,Los Angeles,3.6188363014251963,Male,PhD
+25,95155,27,Marketing,Los Angeles,4.295069583196492,Female,High School
+53,85168,6,HR,Los Angeles,1.2525611717095653,Female,Master
+55,82487,31,Marketing,Chicago,4.107161933628909,Male,Bachelor
+57,42342,10,Sales,New York,4.286591731847085,Male,Bachelor
+37,70806,9,Marketing,Los Angeles,2.846091710354427,Female,Bachelor
+52,78770,8,HR,New York,4.933222627273869,Female,High School
+65,108623,13,Sales,Chicago,4.146833362829236,Male,Master
+42,105629,12,Marketing,Los Angeles,4.094650259582663,Male,High School
+52,82603,24,Marketing,Chicago,3.991354297648287,Female,High School
+42,111974,1,Sales,Chicago,1.602432412873096,Female,High School
+46,56399,34,Engineering,New York,1.8689235458120432,Female,PhD
+35,115382,6,Sales,Los Angeles,2.8559605258577,Female,PhD
+63,111244,20,Engineering,Chicago,2.0560173998378635,Female,PhD
+35,106534,17,HR,Los Angeles,2.660963889336162,Male,Master
+19,85106,2,HR,New York,4.553856439691683,Female,High School
+52,60678,41,Sales,Chicago,4.297307567517077,Female,High School
+33,106218,38,Sales,New York,3.520159513919929,Male,PhD
+58,93230,40,HR,Los Angeles,4.432481577004414,Male,High School
+53,104055,10,Engineering,Los Angeles,4.135089556068997,Female,High School
+50,86373,38,HR,New York,2.715939727363562,Female,Bachelor
+21,61480,23,Sales,San Francisco,1.8042606081997805,Male,High School
+50,115230,18,HR,Chicago,3.0568041600373568,Female,Bachelor
+31,98836,3,Sales,Los Angeles,3.9449155301142005,Female,High School
+38,102258,25,Sales,Los Angeles,2.745678394918372,Male,Master
+65,69986,37,HR,Chicago,3.667087639135589,Female,PhD
+37,54160,41,Engineering,New York,1.3773097051641745,Male,Bachelor
+25,115595,31,Marketing,New York,3.9920189454856136,Male,PhD
+24,109111,38,HR,New York,4.250854479572248,Male,Bachelor
+20,94929,44,Marketing,San Francisco,3.8273514231221646,Male,Bachelor
+34,103506,35,HR,San Francisco,4.869054350105462,Female,Bachelor
+50,64911,39,Marketing,Los Angeles,4.306608229842562,Male,Master
+65,117127,36,Engineering,New York,4.612374911506153,Female,High School
+29,61821,32,Engineering,Chicago,4.734284333830592,Female,Bachelor
+68,105039,35,HR,Los Angeles,4.205391967495235,Female,Master
+39,90535,2,Sales,Chicago,3.6970353680259964,Female,Bachelor
+39,114458,8,Marketing,Los Angeles,1.0228743254431572,Female,High School
+63,42175,7,Sales,San Francisco,2.8633030128924988,Male,Bachelor
+47,84771,32,Sales,Los Angeles,3.284649194489444,Male,Master
+55,116925,5,Sales,San Francisco,2.2161210897919985,Male,High School
+55,96358,40,Engineering,Los Angeles,2.2724177876138882,Male,Master
+62,47327,38,HR,New York,4.844637662840661,Female,High School
+68,77057,3,HR,Chicago,4.566843460810984,Male,High School
+25,36150,12,Engineering,New York,4.396716022006817,Female,PhD
+44,34425,1,Engineering,Los Angeles,2.6240472068244425,Female,PhD
+44,46032,4,HR,Los Angeles,1.0547942016356582,Male,PhD
+51,32198,43,Sales,Los Angeles,1.3208889858228563,Male,High School
+38,90500,26,Marketing,San Francisco,2.2487854728704146,Male,Bachelor
+47,83394,31,Marketing,Chicago,1.062971651982708,Male,Master
+50,50079,20,Marketing,Chicago,1.0685991276607925,Female,Master
+45,66220,7,Sales,Los Angeles,4.6664132065696435,Female,Master
+64,71874,37,HR,Los Angeles,3.8246340084762163,Male,PhD
+50,43859,7,Engineering,San Francisco,2.2358239602726107,Female,High School
+22,80460,2,HR,New York,1.5305783104038126,Female,PhD
+65,61419,43,Sales,New York,3.0465428715803085,Female,Bachelor
+36,38705,2,Engineering,Chicago,1.0213846434174578,Male,High School
+21,72880,21,Sales,San Francisco,4.7536549754325765,Female,Master
+52,53236,5,Marketing,Los Angeles,2.659260477555789,Male,PhD
+66,117955,1,Marketing,Chicago,2.609339820949331,Male,PhD
+34,115514,22,Sales,San Francisco,2.5623744303271287,Female,Bachelor
+61,45358,43,Engineering,New York,1.277313321551059,Female,Bachelor
+45,106918,1,Engineering,San Francisco,3.5532889591673062,Male,PhD
+47,44596,37,HR,New York,3.9320144785134135,Female,Bachelor
+46,63572,16,Marketing,San Francisco,3.704501590353161,Female,Master
+63,108757,34,HR,Chicago,1.5537419733175772,Male,Bachelor
+23,31279,33,HR,New York,3.3153606721423703,Male,Bachelor
+52,93197,22,Sales,Chicago,3.2779379366890153,Male,PhD
+58,92516,29,Sales,Chicago,4.473643151765528,Male,PhD
+54,37083,7,HR,New York,2.516510633502588,Female,High School
+41,47771,21,Marketing,New York,2.485943774637737,Female,High School
+46,59975,43,Sales,Los Angeles,3.4741082348727423,Male,PhD
+66,75648,35,HR,Los Angeles,3.532290613998052,Male,Bachelor
+63,78285,4,HR,Los Angeles,2.8771409093031615,Male,Bachelor
+48,49063,12,HR,Chicago,2.7722374493216844,Female,High School
+52,97642,28,HR,Chicago,2.9765906825515307,Male,High School
+50,116143,30,HR,Los Angeles,4.444181198013247,Female,High School
+69,67599,15,HR,Chicago,2.84466760501564,Male,Master
+38,81920,41,Sales,Chicago,4.75972716787929,Male,Master
+49,58529,29,Marketing,New York,3.016015054385304,Male,High School
+40,65954,15,HR,New York,4.796802772723566,Female,Bachelor
+50,57856,11,Engineering,Chicago,4.331327607476303,Female,High School
+20,32573,16,Sales,Los Angeles,2.4497252904633164,Female,Master
+35,108344,15,Sales,San Francisco,4.454565685186465,Male,Bachelor
+42,65367,11,HR,Los Angeles,1.4402531368044609,Female,Master
+59,90774,7,Sales,San Francisco,4.700188701372058,Female,Bachelor
+48,53752,19,HR,Los Angeles,3.5265740603315665,Male,Master
+20,85029,2,Marketing,New York,1.2175629940892447,Male,Bachelor
+57,47685,15,Marketing,Chicago,3.577026894603246,Female,Bachelor
+63,81693,29,Sales,Chicago,4.896990616579025,Female,Bachelor
+41,85961,44,Sales,New York,1.2792026184585157,Female,Bachelor
+67,106908,22,Engineering,San Francisco,3.218750839120345,Female,PhD
+49,104532,27,Sales,San Francisco,3.9911773990374897,Male,Master
+64,111994,39,Engineering,San Francisco,4.241034346798125,Male,Master
+39,86133,4,Marketing,New York,2.6553098612831834,Male,PhD
+40,91268,19,Marketing,San Francisco,1.816666236672972,Female,Bachelor
+19,68243,39,HR,New York,1.1693691150895353,Female,Bachelor
+44,87384,43,Marketing,Los Angeles,3.318904628388899,Male,Master
+59,61653,0,Engineering,Los Angeles,2.811644281070443,Male,PhD
+19,56657,29,Sales,New York,4.794977580598844,Female,Bachelor
+43,69952,20,HR,Chicago,1.2424196308596391,Female,Bachelor
+34,52180,19,Engineering,Los Angeles,3.741581373784023,Male,Bachelor
+57,108411,5,Sales,San Francisco,1.0998648884802287,Male,High School
+50,31622,21,HR,New York,1.685736706842171,Male,PhD
+26,78756,17,Marketing,San Francisco,2.8143159996913365,Female,Bachelor
+60,70809,7,Engineering,San Francisco,2.819489771211473,Female,High School
+65,46725,38,Sales,Chicago,3.7428021717345756,Female,PhD
+56,91396,31,HR,San Francisco,4.6408521394710265,Female,Bachelor
+46,81226,32,HR,Chicago,3.5561286356596833,Female,Master
+59,111182,15,Marketing,Los Angeles,4.814140391406035,Female,High School
+43,112565,11,Sales,New York,4.526462559511991,Male,High School
+52,59402,37,Marketing,San Francisco,3.337999182123161,Male,Bachelor
+67,34263,33,Marketing,New York,4.33516780367531,Female,Bachelor
+42,76828,13,Sales,San Francisco,3.570310441294536,Male,High School
+41,77924,35,Sales,New York,1.3142313236949086,Female,Master
+30,104182,32,Sales,San Francisco,3.96225889303804,Male,Master
+24,89052,22,Engineering,San Francisco,1.3796337650693848,Female,PhD
+53,41664,44,Sales,San Francisco,3.3763311222788497,Male,Bachelor
+62,65737,1,HR,San Francisco,3.8105608234329154,Male,Master
+37,119563,40,Marketing,San Francisco,1.266110432843421,Female,PhD
+18,59373,20,Engineering,San Francisco,1.923178615706127,Female,Master
+25,66397,1,Sales,San Francisco,4.662688929046599,Male,Bachelor
+63,116145,26,Engineering,San Francisco,3.4652579689315854,Male,PhD
+33,68709,8,Sales,San Francisco,1.9851440752421263,Female,PhD
+31,91120,0,Engineering,New York,3.7627190845920264,Male,PhD
+29,49250,10,Marketing,Chicago,3.3871056798467585,Female,Master
+68,51172,2,Marketing,San Francisco,3.0063027996717935,Female,Bachelor
+40,41555,22,HR,Chicago,4.904747899952335,Male,PhD
+32,117410,25,HR,San Francisco,3.7338151096300356,Female,High School
+45,108617,3,Sales,San Francisco,2.5017644386716507,Male,Bachelor
+51,83276,17,Marketing,New York,4.2002937283074715,Male,High School
+19,87492,5,Engineering,Los Angeles,4.5383331716847515,Female,High School
+49,83002,34,Engineering,Los Angeles,1.5008822380673257,Male,PhD
+40,119599,21,Engineering,New York,1.802211911381066,Female,PhD
+39,102355,42,HR,Chicago,1.8649080365111188,Female,Master
+68,54762,14,Engineering,Los Angeles,3.7648472375461615,Female,Master
+42,41046,21,HR,New York,3.4121582202131333,Male,Master
+39,58769,36,HR,New York,3.4759662587943527,Female,Bachelor
+39,83302,41,Sales,Los Angeles,4.763093198758003,Male,Master
+66,53150,11,Engineering,Chicago,4.103646131229224,Female,High School
+69,98247,41,Engineering,New York,1.5117476980471327,Female,Master
+59,34853,37,Marketing,San Francisco,2.390028329700724,Female,PhD
+23,119399,17,Sales,Chicago,2.7415745847029425,Male,Master
+32,51792,44,Marketing,Chicago,2.5838463549904196,Male,Bachelor
+60,89129,34,Sales,Los Angeles,3.6772344366475167,Female,Bachelor
+54,104478,29,Engineering,Los Angeles,4.56757241302625,Female,High School
+50,97298,23,HR,San Francisco,2.224205854091152,Male,Bachelor
+25,61987,41,HR,New York,3.2075085456847425,Male,Master
+61,45850,29,HR,Los Angeles,4.157637687654343,Male,PhD
+61,42112,13,HR,Los Angeles,2.6648722353813974,Female,Bachelor
+22,54058,5,HR,Chicago,1.6724725135971834,Male,High School
+56,75420,2,Marketing,Los Angeles,2.899803861054993,Female,Master
+21,68890,15,Sales,Los Angeles,1.2208900829721139,Male,High School
+23,96017,6,Engineering,Los Angeles,4.769533816009107,Female,Bachelor
+62,77304,13,Marketing,Los Angeles,1.2992848207798922,Female,Bachelor
+49,62921,8,Sales,Chicago,2.7538268610023127,Female,High School
+69,31524,14,HR,San Francisco,3.1195250443541047,Male,Master
+47,45048,20,Sales,San Francisco,4.941215329149141,Male,Bachelor
+64,65111,34,Sales,New York,1.664087294571443,Male,PhD
+52,67904,1,HR,Los Angeles,1.4577260744494343,Female,Bachelor
+57,84912,26,HR,Chicago,1.0348245882501743,Female,Master
+69,64008,1,HR,New York,1.6222857474772092,Male,Bachelor
+33,30060,34,Engineering,New York,1.8290919162706705,Female,High School
+30,104666,17,HR,San Francisco,3.522323766332369,Female,Bachelor
+67,113559,13,Engineering,Chicago,1.8788271615656016,Female,Bachelor
+59,85337,19,HR,Chicago,1.0820832589173008,Male,Master
+47,43350,17,Engineering,Chicago,4.306473382009955,Female,High School
+36,54354,9,Sales,San Francisco,2.462382804015867,Male,Master
+34,75186,24,Marketing,San Francisco,2.4147867463229358,Male,Bachelor
+36,58145,1,Sales,San Francisco,2.2099161166717063,Male,PhD
+45,64020,24,Sales,San Francisco,4.901493108585683,Male,Bachelor
+43,116123,32,HR,San Francisco,1.680461669237126,Male,Master
+54,105186,35,Engineering,Los Angeles,4.592952255812941,Female,PhD
+43,115469,30,Marketing,Los Angeles,4.107213328559552,Male,Master
+40,50581,13,HR,Chicago,1.3059198219972523,Male,Master
+26,118929,0,HR,New York,4.946916406003394,Male,High School
+29,53051,15,HR,Chicago,2.085463854156042,Female,PhD
+18,81474,2,Sales,New York,1.3943317080896493,Female,Bachelor
+18,99626,34,Engineering,San Francisco,4.317256936503037,Female,Master
+64,36960,40,Engineering,New York,3.8267021347107995,Female,Bachelor
+51,65772,5,Marketing,Chicago,3.468875223511603,Male,High School
+49,51520,24,Engineering,Chicago,1.6239234547957326,Male,High School
+65,79481,12,Engineering,New York,2.9139844650238476,Female,PhD
+42,66408,33,HR,Los Angeles,4.122224107548855,Female,High School
+57,87134,7,HR,San Francisco,2.214495752575361,Female,High School
+62,50491,20,Sales,San Francisco,2.246759314060166,Female,Bachelor
+18,31341,33,HR,Chicago,1.0125636241924885,Male,High School
+33,74623,3,HR,Los Angeles,1.6969736065815182,Female,High School
+56,30338,24,HR,New York,4.501622500487337,Female,Master
+22,101431,14,HR,San Francisco,2.7669859665508283,Female,High School
+39,42254,3,Sales,Los Angeles,4.936937996937736,Female,Master
+46,81860,44,HR,San Francisco,2.5828318542951703,Female,High School
+20,41344,11,Marketing,Los Angeles,3.860745819120965,Female,High School
+29,31750,31,Marketing,Los Angeles,2.1276761716189165,Female,PhD
+43,84756,31,Marketing,Chicago,2.455238564563734,Male,PhD
+33,97957,27,Marketing,San Francisco,1.7629039503635786,Male,Master
+68,88053,12,HR,New York,2.38824947399758,Male,High School
+54,100855,30,Marketing,Chicago,3.1889500816825724,Male,Bachelor
+39,45896,13,HR,Chicago,4.967091523916998,Male,PhD
+46,85761,19,Sales,New York,3.6568068522871426,Male,Bachelor
+31,92552,17,Marketing,Chicago,1.7969838176332562,Female,PhD
+45,107454,28,Engineering,Los Angeles,1.1798457663662045,Female,PhD
+22,57935,5,Marketing,Los Angeles,1.5054259252580424,Male,High School
+64,67641,31,Marketing,San Francisco,3.2502208050921895,Female,PhD
+66,59711,28,HR,San Francisco,4.060641315267065,Male,Bachelor
+47,100342,42,Marketing,New York,4.761676829202988,Female,PhD
+63,42182,1,Engineering,San Francisco,1.0632926879872833,Female,Master
+69,117833,22,HR,Los Angeles,3.091040566247479,Female,High School
+22,86276,18,HR,New York,2.883469424892707,Female,High School
+29,49541,30,Sales,New York,3.624220087902816,Female,Master
+33,112310,4,Sales,San Francisco,3.238315417861368,Female,Master
+43,74813,18,Marketing,Los Angeles,3.748156602329922,Male,Master
+43,67198,33,Sales,New York,3.6323303389967614,Male,PhD
+65,38820,9,Sales,Los Angeles,1.4680468994317848,Female,High School
+38,54070,24,Sales,Los Angeles,4.198871654474878,Male,Master
+56,99768,1,HR,Los Angeles,1.4929303028652994,Female,PhD
+53,41122,10,HR,San Francisco,3.7941225008365485,Male,Master
+50,110559,30,HR,Chicago,2.664581470562427,Female,Bachelor
+47,103543,14,Sales,Chicago,3.0554029383063916,Male,Bachelor
+54,113441,8,HR,New York,4.613192057502842,Female,High School
+40,71786,22,Sales,Los Angeles,4.559534905893946,Male,PhD
+27,36737,18,HR,San Francisco,4.271425222620119,Female,Bachelor
+22,66062,8,HR,Los Angeles,3.040593521825293,Male,Bachelor
+53,84237,34,Engineering,Los Angeles,3.9449592405353324,Female,PhD
+51,81571,20,Marketing,San Francisco,3.0515882220752375,Female,Master
+69,55510,8,Sales,Chicago,4.478424329899109,Female,PhD
+48,49426,27,Engineering,Los Angeles,2.6111033329315996,Male,Master
+27,67265,6,HR,Los Angeles,4.880941377659507,Male,Bachelor
+36,47850,15,Sales,Chicago,4.72929103291551,Male,Bachelor
+49,96150,15,HR,San Francisco,3.966410477807142,Female,Bachelor
+18,117312,32,Marketing,New York,2.117663536704288,Male,High School
+22,119613,3,Engineering,Chicago,1.5266143551730336,Female,High School
+62,104910,3,Marketing,New York,4.41881380037279,Male,High School
+21,82375,38,Engineering,New York,1.661209144551845,Male,PhD
+33,65435,39,HR,Chicago,4.417043155989343,Male,Bachelor
+41,87132,16,Marketing,Los Angeles,2.963060026849442,Male,Bachelor
+33,108945,36,Marketing,New York,2.626227135232417,Female,PhD
+19,112050,38,HR,New York,4.612763115337716,Male,High School
+66,32983,28,Marketing,San Francisco,3.4154039301611117,Male,PhD
+45,50662,35,Sales,Los Angeles,3.306456028518871,Female,High School
+49,53510,37,Engineering,New York,3.2350637784975906,Female,Bachelor
+44,108187,38,Engineering,San Francisco,2.4846780640781256,Male,Master
+37,70998,36,Engineering,Los Angeles,4.1425724141165094,Male,High School
+41,86846,34,Sales,Chicago,2.011193776063092,Female,Bachelor
+29,36640,6,Engineering,Chicago,4.7555798401651,Female,Bachelor
+67,74547,26,HR,San Francisco,4.575940820187843,Female,Master
+52,84620,27,Marketing,Chicago,2.3499213026995927,Male,Bachelor
+50,45317,21,Sales,New York,3.917855079326655,Male,Bachelor
+50,37564,13,Engineering,Los Angeles,3.292892777798366,Male,High School
+68,57345,6,HR,New York,2.3505972079969384,Female,High School
+60,109273,36,Marketing,New York,4.9540865919817865,Female,Master
+54,104859,21,Marketing,Chicago,1.1009493833930568,Female,Master
+29,110765,4,Sales,New York,2.0105841224851466,Male,Bachelor
+20,104038,1,Sales,Chicago,3.0802962444446016,Female,High School
+18,82393,26,Sales,Los Angeles,3.0878120139142555,Male,Master
+50,96081,20,HR,Los Angeles,3.3557322997822565,Female,Master
+57,59430,37,HR,New York,4.006704688091677,Male,PhD
+27,105532,14,Sales,San Francisco,3.4939113220771856,Male,Master
+60,57788,20,Engineering,Chicago,3.401125842112148,Female,Bachelor
+61,78543,9,Marketing,Chicago,1.2140578516521732,Male,High School
+46,43919,22,Marketing,New York,2.5061211511571932,Female,Master
+30,99346,38,HR,Chicago,1.928222958804624,Male,PhD
+29,69974,4,Marketing,Chicago,2.0614804464079017,Female,High School
+48,46371,0,Engineering,San Francisco,3.2173498973613794,Female,Master
+63,75084,12,Marketing,San Francisco,1.7980212597184337,Male,PhD
+19,59629,20,HR,New York,2.17579640406759,Female,Master
+68,81184,25,HR,San Francisco,1.9483388340693604,Male,High School
+67,91916,44,Engineering,New York,4.7940117728727785,Female,High School
+52,103972,20,Engineering,Los Angeles,4.778662928684381,Female,High School
+40,92187,17,Marketing,New York,3.439766234384207,Female,Bachelor
+34,42984,36,Marketing,Los Angeles,4.6980898749276,Female,Master
+43,63039,44,HR,New York,4.143250581873493,Male,Bachelor
+25,115431,31,Engineering,Chicago,3.359791531207235,Female,High School
+46,113691,35,Engineering,San Francisco,1.0257408459871828,Female,PhD
+43,88606,16,Engineering,Los Angeles,4.090065144317617,Male,Master
+27,40616,34,Marketing,New York,3.8099533663538754,Male,Bachelor
+43,80072,10,Engineering,San Francisco,3.461014613129656,Male,Master
+51,54574,20,HR,New York,4.041697246729887,Male,PhD
+68,33430,25,HR,San Francisco,3.051688659099063,Male,Bachelor
+58,42676,3,Marketing,San Francisco,3.8163330852853563,Male,High School
+24,40816,33,Sales,New York,4.740688346905973,Female,Bachelor
+21,62733,17,Marketing,Los Angeles,2.503220063384345,Male,Master
+67,115680,39,Sales,Los Angeles,3.8324873396025017,Female,Master
+62,32050,34,Engineering,Chicago,2.902751272043835,Male,Master
+28,63933,40,Marketing,San Francisco,3.697598607255926,Female,Master
+46,54951,28,HR,Chicago,4.0515733422174565,Female,High School
+53,62413,28,Engineering,Chicago,1.1818100017431838,Female,Bachelor
+42,64801,37,HR,New York,3.5864017757946476,Male,High School
+38,85619,41,Engineering,New York,1.9069647376277783,Male,High School
+53,62913,20,Marketing,New York,3.680130151230267,Male,High School
+27,70600,41,Sales,San Francisco,2.873320743735254,Male,Master
+54,87775,12,Engineering,New York,4.094210967459549,Female,Master
+26,65400,40,Sales,New York,1.4936032608223857,Male,Master
+41,34494,16,Engineering,San Francisco,3.5052894066247804,Female,Bachelor
+52,110688,8,HR,San Francisco,2.1138829157102093,Female,PhD
+66,119431,40,HR,Los Angeles,4.411927981322366,Male,Master
+52,104691,0,Engineering,New York,4.71353402254523,Male,Bachelor
+65,73001,1,Sales,New York,4.985593174716222,Male,Master
+53,97364,28,Marketing,New York,4.184029609709134,Female,Master
+35,75028,32,Marketing,Los Angeles,4.014936281712018,Male,High School
+66,67573,9,HR,New York,1.8620030354702042,Female,High School
+56,30806,39,Marketing,Los Angeles,2.344028235960435,Male,High School
+49,86638,20,HR,Chicago,2.862730167049118,Female,Bachelor
+41,59757,27,Marketing,Los Angeles,4.093524191128999,Male,PhD
+40,64636,10,Engineering,Chicago,4.6598634603118745,Male,PhD
+49,110097,33,HR,New York,1.7565564000919385,Female,Bachelor
+54,78280,7,HR,Chicago,4.6894699386804115,Male,Master
+29,54262,21,Engineering,Los Angeles,3.782498609416232,Male,Bachelor
+66,110435,7,HR,San Francisco,3.4430829227401545,Male,Master
+30,92211,14,Marketing,Chicago,1.799365085127758,Male,Bachelor
+40,84842,16,Marketing,Chicago,1.2221001312366022,Male,Bachelor
+42,86979,22,HR,New York,3.2738595940317596,Male,Bachelor
+52,111470,23,Marketing,Los Angeles,3.6060627333155697,Male,PhD
+58,68197,44,Sales,Chicago,1.843125797418753,Female,High School
+47,71844,18,HR,Chicago,3.2258248233018256,Female,Bachelor
+34,94754,4,Engineering,Chicago,4.425973611050294,Male,PhD
+66,64157,31,Sales,Chicago,4.34026378182008,Male,High School
+37,107129,43,HR,San Francisco,4.709420722345189,Male,High School
+65,70042,0,Engineering,Los Angeles,2.4635432382275217,Female,Bachelor
+42,91665,22,Marketing,New York,2.272198290203675,Female,Master
+39,112856,36,Engineering,New York,3.9977040239232347,Male,Master
+30,57376,7,Sales,San Francisco,2.72444962038802,Female,Master
+36,85554,12,Marketing,Los Angeles,1.3501946561111224,Male,Bachelor
+66,44199,7,HR,Chicago,2.131204522681999,Male,Master
+53,111412,22,Marketing,San Francisco,2.6743291421259565,Male,PhD
+29,80948,42,HR,Los Angeles,2.170065701905008,Male,PhD
+58,103781,0,HR,Chicago,2.3288222837892865,Female,PhD
+36,102750,44,Engineering,San Francisco,2.175103624697563,Female,PhD
+29,96262,23,Engineering,Los Angeles,1.1659966687323178,Male,High School
+26,76600,34,Engineering,New York,3.54837880329777,Female,PhD
+24,106898,23,Sales,New York,3.389169681413877,Female,Master
+45,92483,16,Sales,Los Angeles,3.6135339939147224,Male,Bachelor
+31,48297,4,Engineering,New York,1.7692395841345099,Female,Master
+48,60448,19,Sales,Los Angeles,2.182618166449941,Male,PhD
+69,56172,20,Marketing,Chicago,3.478463707779689,Male,High School
+36,72874,39,Marketing,Los Angeles,3.3985102738396855,Male,PhD
+64,37657,30,Sales,Chicago,3.0253212374170713,Male,Bachelor
+33,114386,35,Sales,San Francisco,2.4016530000407896,Female,Master
+22,55425,10,Marketing,Los Angeles,4.65172401909876,Male,Bachelor
+52,56685,14,HR,San Francisco,2.359080969195375,Female,Bachelor
+29,54578,18,Marketing,New York,2.8224766257490064,Male,Bachelor
+42,58831,6,Marketing,Chicago,3.712455323816835,Male,Master
+69,37906,27,Sales,Los Angeles,3.1720857234670565,Female,PhD
+38,91413,42,Marketing,San Francisco,2.3875439054575422,Male,Bachelor
+53,84028,4,Sales,Chicago,2.7425791618260393,Female,Master
+40,37287,4,Sales,Chicago,4.177923271414024,Female,High School
+33,63660,29,Engineering,New York,2.1125166219464497,Male,Master
+56,105758,31,Marketing,New York,1.5690209591072617,Male,High School
+62,90504,7,HR,Chicago,2.2526528073191083,Male,Master
+59,89720,9,Engineering,Chicago,4.398136861951605,Male,PhD
+56,64701,37,Sales,Los Angeles,1.3559588594253866,Male,Bachelor
+31,113300,31,Sales,Chicago,4.966784293489807,Male,PhD
+48,47674,27,HR,Los Angeles,3.16401159571065,Female,Master
+22,113560,16,Sales,Chicago,4.9393829758683765,Female,Bachelor
+52,53874,30,Marketing,New York,4.755985688343911,Male,High School
+40,73642,7,Engineering,Los Angeles,2.811254856843667,Female,Master
+46,95160,39,Sales,San Francisco,1.7939642984213964,Female,Bachelor
+60,47602,24,Sales,New York,1.6595391062605538,Male,High School
+28,118801,8,HR,Los Angeles,1.95995745547983,Male,High School
+35,55931,1,Marketing,Los Angeles,3.840530562258149,Female,PhD
+64,59192,14,Sales,San Francisco,2.0917999789259514,Male,Master
+29,76542,2,HR,Los Angeles,2.3657010784171932,Female,High School
+26,72520,35,Sales,Chicago,2.795115215978459,Male,Bachelor
+27,94772,3,HR,San Francisco,4.652930721685825,Female,High School
+61,88762,13,HR,New York,1.7575736715393844,Female,High School
+34,80106,40,Marketing,New York,1.0201062104392125,Female,PhD
+55,111121,40,Sales,Chicago,1.2403856415126806,Female,PhD
+24,55559,24,Marketing,New York,4.619065366720472,Male,Bachelor
+63,63742,9,HR,Los Angeles,3.5900658593734525,Male,PhD
+30,99669,20,Engineering,Los Angeles,2.092162477311227,Female,High School
+57,110199,35,Sales,Chicago,1.7087700040447644,Female,High School
+59,51754,11,Engineering,New York,2.1770669465484573,Male,PhD
+26,33972,26,Sales,New York,1.4591877090051204,Male,High School
+67,100831,39,Marketing,Chicago,4.766131641137765,Female,High School
+44,71873,1,Marketing,San Francisco,4.136824697461067,Female,Bachelor
+19,39903,12,Marketing,New York,2.849564707650163,Female,PhD
+22,33020,31,Marketing,San Francisco,4.459850420460808,Female,High School
+46,71755,30,Marketing,New York,1.9978328171729292,Female,PhD
+54,115956,15,Engineering,New York,3.868482273888774,Male,Bachelor
+55,116988,31,Marketing,New York,4.424529996054973,Female,PhD
+36,75648,31,HR,New York,2.4270748464930905,Male,High School
+25,39516,33,HR,Los Angeles,4.029857781802871,Male,PhD
+65,32396,10,Engineering,San Francisco,2.1802893970572375,Male,High School
+62,114082,9,Sales,San Francisco,2.195428541036123,Female,High School
+18,49129,14,HR,New York,1.4282287142167442,Male,High School
+39,31591,16,Sales,New York,2.760232186037595,Male,Bachelor
+69,41303,39,Engineering,San Francisco,3.918847625989689,Male,PhD
+34,60561,17,Sales,Los Angeles,4.760883222285139,Male,Bachelor
+24,101719,8,Sales,Chicago,3.4151879677163843,Female,PhD
+42,116231,24,Sales,Chicago,4.452542150942956,Female,Bachelor
+62,37314,39,Sales,San Francisco,4.289978597160909,Male,Master
+21,49623,13,Engineering,New York,1.6933722119011234,Male,High School
+53,97675,24,HR,New York,2.943269715650526,Female,High School
+23,95082,21,Marketing,Los Angeles,1.467694142101566,Female,Bachelor
+48,113624,29,Sales,Chicago,3.72861264624654,Female,Master
+36,63130,19,HR,Los Angeles,4.799598672984304,Male,High School
+61,81756,20,HR,Chicago,1.548357832315026,Female,PhD
+56,56292,43,Engineering,San Francisco,3.9355325232101652,Male,Bachelor
+44,116206,31,HR,Chicago,3.528952603471444,Male,High School
+27,99274,20,Engineering,Los Angeles,3.334420148032399,Female,High School
+43,32469,34,Sales,Los Angeles,2.560480938753357,Male,Bachelor
+36,83947,31,Sales,Los Angeles,2.4205265910152503,Female,Bachelor
+56,52534,29,Marketing,San Francisco,1.1809967560755514,Male,PhD
+20,93620,38,Marketing,Chicago,1.8716348330080539,Female,PhD
+62,78874,11,Marketing,Chicago,1.0607075291473076,Male,High School
+30,79708,40,HR,Los Angeles,3.325668422328082,Male,High School
+67,104553,17,Sales,Chicago,1.4234129435116354,Female,Bachelor
+45,98344,20,Engineering,New York,4.492077576118865,Female,High School
+37,79138,12,Marketing,New York,3.092572082788661,Female,High School
+45,84302,20,Engineering,New York,3.7987596362348337,Female,Bachelor
+25,77638,7,Engineering,Chicago,2.643428367361986,Male,High School
+58,108249,39,Marketing,San Francisco,3.2423192360041946,Female,High School
+56,32719,6,Sales,San Francisco,4.770636707866522,Female,Master
+18,52890,22,Marketing,San Francisco,1.330936158494683,Male,PhD
+20,107236,43,Engineering,San Francisco,2.0157510876947846,Female,Bachelor
+30,66509,31,Marketing,New York,4.119953307642177,Female,Master
+45,72534,10,Engineering,New York,1.3949488275306634,Male,PhD
+66,48787,21,Engineering,Los Angeles,1.3026444156164434,Female,PhD
+42,78845,21,Marketing,Chicago,2.4461655950161543,Female,PhD
+50,87932,42,HR,Chicago,1.3686718338897292,Female,Master
+55,63062,24,Marketing,San Francisco,3.3403137688248123,Female,Master
+23,105713,21,HR,New York,1.9051010032663993,Female,PhD
+61,117263,27,Engineering,San Francisco,4.58279185279749,Female,High School
+62,90461,28,Engineering,Los Angeles,4.134000323381027,Male,High School
+49,105418,12,HR,Chicago,3.7988208243979047,Female,Master
+62,96672,17,Engineering,Chicago,3.4677761095380077,Male,Master
+64,64832,1,HR,San Francisco,4.453862921365854,Male,Master
+38,61966,28,HR,Los Angeles,1.8922482461710275,Male,PhD
+33,102545,20,Engineering,Chicago,4.49243537105691,Male,High School
+38,42987,14,Sales,Los Angeles,4.157969193696209,Female,Master
+28,67311,26,HR,Los Angeles,3.992643305550742,Female,Master
+54,61575,30,Marketing,San Francisco,3.245022712299696,Female,Bachelor
+53,93852,14,Marketing,New York,1.9849766438824004,Male,PhD
+52,31007,22,Engineering,San Francisco,2.6941916639675854,Female,Bachelor
+36,100981,23,Sales,New York,4.174282618155207,Female,High School
+37,106242,43,Engineering,Los Angeles,1.1271139374292978,Female,Bachelor
+35,77517,12,Sales,New York,4.1282030770550335,Male,Bachelor
+64,59257,21,HR,Los Angeles,1.960282961950266,Male,Bachelor
+58,117272,42,HR,Chicago,1.577236802886412,Female,PhD
+66,72207,36,HR,Chicago,1.4628052727212086,Male,High School
+31,43281,32,HR,Chicago,1.1090000478032604,Male,Bachelor
+32,91246,2,Marketing,San Francisco,3.0943459408858116,Female,PhD
+48,31435,18,Marketing,San Francisco,1.873039490774918,Male,High School
+18,56660,22,Engineering,Los Angeles,4.957727063118526,Male,Master
+20,35084,28,Sales,Chicago,3.297747023488823,Female,Bachelor
+33,112197,29,HR,San Francisco,1.5515410774240417,Male,High School
+40,43507,38,HR,Chicago,3.7550501632454614,Male,Bachelor
+28,102595,43,Sales,San Francisco,4.590974266038901,Male,Master
+29,113807,24,Sales,New York,3.9807179814784575,Male,High School
+27,75539,36,Engineering,New York,1.3057594441577907,Male,PhD
+49,37491,7,Sales,Chicago,4.583536724770639,Male,High School
+33,80192,41,HR,Los Angeles,4.175717543439859,Male,PhD
+25,110395,15,HR,San Francisco,1.6332156004224574,Male,High School
+55,93888,7,HR,San Francisco,1.2071435549312675,Female,PhD
+29,103609,0,HR,New York,3.229242301257234,Female,Master
+41,39077,43,HR,New York,1.6241432453599076,Female,Master
+45,50953,4,Engineering,Los Angeles,4.338363810381088,Female,Master
+25,106919,2,HR,Los Angeles,2.433338626686695,Male,High School
+45,97889,0,Engineering,Los Angeles,4.6515697789463015,Female,Master
+53,53821,3,HR,Chicago,3.262752688564023,Female,Bachelor
+43,67567,39,Marketing,New York,1.7306895369586726,Male,Master
+25,54860,34,Marketing,Chicago,1.5583954694392004,Male,PhD
+67,51195,31,Marketing,New York,3.3058897502310156,Male,PhD
+45,107475,41,Marketing,New York,4.047534447449776,Male,PhD
+45,117266,33,Engineering,San Francisco,4.126022590968729,Male,High School
+54,51427,42,Engineering,New York,2.103029617765125,Female,Bachelor
+58,57083,24,Sales,New York,1.81698703564867,Male,Master
+53,117046,9,HR,Chicago,1.0670252179695296,Female,Bachelor
+44,87372,20,Marketing,New York,3.7167966048046774,Female,Bachelor
+34,74064,38,Engineering,Chicago,1.306273033734156,Male,PhD
+26,37813,26,HR,Los Angeles,2.683044807063703,Female,PhD
+50,61598,26,HR,New York,3.4067286560731844,Female,PhD
+37,57082,1,Engineering,New York,4.748435779678708,Male,High School
+30,59241,40,Marketing,Chicago,2.2472085478230746,Female,Bachelor
+45,74569,12,Sales,Los Angeles,1.9990886497860791,Female,Bachelor
+65,41745,8,HR,San Francisco,3.6166406171443937,Female,High School
+46,56029,35,Sales,Los Angeles,3.4769561282143266,Male,High School
+30,43025,21,Marketing,Chicago,2.3284391332324983,Male,High School
+63,44288,41,Marketing,Los Angeles,4.712407342039146,Male,Bachelor
+52,119186,25,Sales,Chicago,4.379449309958531,Female,Bachelor
+23,36540,11,Marketing,Chicago,1.8959301834603246,Male,PhD
+35,111958,16,HR,San Francisco,1.9565701817380927,Female,PhD
+68,98878,13,Sales,New York,3.0492013875483224,Male,Bachelor
+22,71846,13,Marketing,Chicago,4.094288406922882,Female,PhD
+64,105932,33,Sales,Chicago,1.1761615175538576,Male,High School
+42,47482,19,HR,San Francisco,3.7733406149388267,Male,Master
+19,53411,10,Marketing,Chicago,3.592943589528388,Female,PhD
+27,80975,15,HR,New York,1.925920383651953,Male,Bachelor
+47,90545,30,Marketing,San Francisco,3.725412052965395,Female,PhD
+67,108797,5,Engineering,New York,4.76073276500833,Male,PhD
+62,82307,18,Marketing,New York,1.187143379887074,Male,PhD
+22,33093,36,Sales,San Francisco,2.27860822116825,Female,Master
+50,107258,3,Marketing,Chicago,2.752706866665421,Female,High School
+18,52042,3,HR,New York,4.597041435698758,Female,Bachelor
+35,82930,19,HR,New York,4.849045786436626,Male,Master
+49,74413,9,Marketing,New York,2.776460985985329,Female,Bachelor
+64,63756,23,Sales,New York,4.000113648568765,Male,Bachelor
+66,83268,34,Engineering,San Francisco,3.126644095057932,Female,Bachelor
+28,69214,25,Sales,San Francisco,3.151131738965506,Female,Master
+38,111871,36,Engineering,Los Angeles,2.1123980602654258,Female,High School
+43,58602,37,HR,Los Angeles,1.867824983455518,Female,Bachelor
+42,83331,20,Sales,New York,2.1520213836961646,Female,High School
+39,78901,39,Engineering,Chicago,3.2253120290283173,Female,High School
+44,93416,38,Marketing,New York,1.116620744088356,Male,PhD
+66,62196,20,HR,Chicago,4.628995777425623,Female,Master
+30,35626,9,Marketing,New York,1.6251348381991049,Male,Master
+50,37424,37,HR,Los Angeles,1.8803547074855462,Female,PhD
+51,42857,3,Sales,Los Angeles,3.0731047057905854,Female,PhD
+58,49982,44,Sales,Chicago,3.8404590653491173,Female,High School
+52,106961,19,HR,New York,1.3829162189775892,Male,Bachelor
+18,31980,16,HR,Chicago,2.2707787901886487,Male,Master
+38,78290,6,HR,Los Angeles,4.874698422297429,Female,Bachelor
+65,56431,3,Sales,New York,2.049371867123783,Male,Bachelor
+23,114976,28,Engineering,New York,2.2522005802525875,Female,PhD
+45,112711,13,Marketing,Chicago,4.345993962472134,Female,Bachelor
+34,56385,2,Marketing,San Francisco,1.200857726761821,Male,High School
+22,68158,23,Sales,Chicago,2.8584526752358834,Male,PhD
+48,53019,36,Marketing,Los Angeles,2.518467057806681,Male,Bachelor
+22,48639,15,HR,Los Angeles,2.2663470396346046,Male,PhD
+55,115530,3,Engineering,Los Angeles,2.142798376179058,Female,High School
+20,51563,23,Marketing,Los Angeles,1.3654964194416368,Male,High School
+40,69341,33,Engineering,Los Angeles,2.2593033174065953,Male,Bachelor
+54,35776,29,HR,San Francisco,1.1722096108626743,Female,PhD
+54,66444,17,Marketing,New York,4.1238554545777415,Male,Bachelor
+27,98916,18,Sales,Chicago,2.5929111758320467,Male,Bachelor
+27,38711,30,Engineering,Chicago,2.7756153292796464,Male,PhD
+36,104318,18,HR,Los Angeles,4.574378345800526,Male,Bachelor
+34,112970,18,Engineering,Chicago,3.632219935444883,Female,High School
+38,115553,21,Marketing,Los Angeles,1.0322364133684792,Female,PhD
+31,60707,23,Marketing,San Francisco,4.772699291845139,Male,PhD
+26,69110,44,Sales,San Francisco,1.9485778639108449,Male,PhD
+63,91788,11,HR,New York,1.4304567390394354,Female,PhD
+18,112879,29,HR,San Francisco,4.072512713523529,Male,Bachelor
+68,68827,37,Sales,San Francisco,3.0019092634668727,Male,Bachelor
+62,35655,30,Sales,New York,2.7350822640720702,Male,High School
+30,74859,35,HR,Chicago,1.998012318730967,Male,Master
+21,83625,18,Engineering,Los Angeles,3.1898859594492746,Male,Master
+18,82098,44,Engineering,Los Angeles,2.09753842081035,Male,High School
+66,45251,35,Sales,Chicago,4.606332021148271,Male,Master
+57,30526,29,Engineering,New York,1.8608179189327712,Male,High School
+49,98760,32,HR,Chicago,4.537420601823014,Male,Bachelor
+51,77837,17,Marketing,San Francisco,3.237621702909428,Female,PhD
+45,41536,27,Marketing,New York,4.313952535580964,Female,PhD
+48,58541,10,Engineering,New York,3.85138398344382,Female,Bachelor
+25,109083,44,Sales,New York,3.7867804457469942,Male,PhD
+56,81027,32,Sales,Los Angeles,2.297383230780223,Male,PhD
+43,64531,16,Sales,Chicago,1.935587725888814,Female,Master
+51,38712,5,Sales,New York,1.8435449107231525,Male,Bachelor
+20,95455,3,Sales,New York,4.428766628238355,Female,Master
+67,104744,19,Engineering,New York,4.281707281036081,Male,Master
+29,35109,26,Marketing,Chicago,2.7622941120492293,Female,PhD
+18,79268,14,Marketing,Los Angeles,1.5296184539858184,Female,PhD
+61,84615,5,Engineering,San Francisco,2.5290090079098335,Female,Bachelor
+22,112503,13,Sales,Los Angeles,3.4773738165476455,Male,PhD
+47,59759,10,Engineering,New York,2.8176126179198113,Female,PhD
+47,115708,38,Marketing,Los Angeles,4.12075707393198,Male,Bachelor
+34,90112,8,HR,Los Angeles,4.990491289005542,Male,PhD
+65,56589,25,Engineering,San Francisco,1.7645283537955874,Male,Master
+64,60015,15,Sales,Chicago,2.8386032786382898,Male,Bachelor
+40,59009,4,Marketing,Chicago,2.723935607683288,Male,PhD
+32,113309,9,Marketing,Los Angeles,2.2179701309958033,Male,High School
+54,92046,2,Marketing,Los Angeles,1.7923820668811583,Male,Bachelor
+38,56143,12,Marketing,Chicago,1.262768465958637,Female,Bachelor
+31,36154,42,Sales,Chicago,4.548477268894794,Female,High School
+19,51804,29,HR,San Francisco,2.6793947907452704,Female,PhD
+28,71688,44,Marketing,New York,2.9875820740001955,Male,PhD
+68,94288,5,Engineering,Los Angeles,4.667768192803663,Male,Bachelor
+56,81195,16,HR,Chicago,4.105161910063791,Male,Bachelor
+55,50581,44,Marketing,Los Angeles,1.5220050564687368,Male,PhD
+51,82648,18,HR,Los Angeles,3.2616798704309695,Female,PhD
+55,60087,41,Engineering,Chicago,2.7690091060782365,Male,Master
+67,79930,34,Marketing,San Francisco,4.188844290315052,Female,Bachelor
+51,62981,25,Engineering,Los Angeles,3.896930190447797,Male,Bachelor
+35,99298,4,Sales,San Francisco,3.761622887644288,Female,High School
+47,76167,28,Marketing,Chicago,2.3621793419195876,Male,Master
+32,105304,36,Marketing,New York,4.219854921597018,Female,PhD
+44,73408,19,Marketing,New York,1.2095651823794449,Male,Master
+68,69499,20,Marketing,Los Angeles,1.638499605728669,Female,PhD
+51,82269,9,Sales,Chicago,2.342493091911647,Male,PhD
+69,68559,4,Marketing,San Francisco,1.3072297642771251,Female,Master
+55,104319,35,HR,Los Angeles,1.9399771101387664,Female,Bachelor
+50,78787,5,Marketing,Chicago,4.3206039319916725,Male,PhD
+41,65488,25,Sales,Chicago,4.793006151160317,Female,Master
+32,104441,3,Marketing,San Francisco,2.218409423096762,Male,High School
+47,104663,38,HR,Los Angeles,2.058063215955353,Male,Master
+59,52431,38,Sales,Chicago,2.1195706089857076,Male,High School
+68,91681,34,Sales,Chicago,2.1108763494033753,Female,PhD
+34,93483,0,HR,Chicago,1.143720728743892,Female,Master
+22,79153,23,HR,San Francisco,4.707665385324432,Male,Master
+46,36368,35,HR,Los Angeles,1.8547925662813136,Male,High School
+21,57424,5,HR,Los Angeles,2.6800162963256198,Female,Master
+27,75004,40,HR,Los Angeles,1.038747530963871,Female,Master
+34,113869,43,Sales,Los Angeles,4.431820363660229,Female,PhD
+27,118652,30,Sales,New York,3.924629377819669,Male,Master
+34,86985,19,Marketing,New York,4.787024140694813,Male,Bachelor
+37,80069,23,Marketing,Los Angeles,4.126461916785596,Male,High School
+41,82326,24,Engineering,San Francisco,2.254826048208261,Male,Master
+22,111061,35,Marketing,New York,1.9914934349136946,Male,High School
+51,53398,20,Marketing,Chicago,3.790865230213172,Female,High School
+23,80861,29,HR,New York,2.4564511000419977,Male,High School
+19,105897,23,HR,Chicago,3.2648600630104663,Female,Master
+30,111905,43,Marketing,Los Angeles,1.025029884105881,Female,Master
+60,98577,41,Engineering,New York,1.247542806721901,Male,High School
+60,95641,29,HR,San Francisco,3.141471764726605,Female,Bachelor
+65,39078,21,Marketing,New York,3.2642865857926604,Male,High School
+28,55003,27,Marketing,New York,4.0058117778373745,Female,Bachelor
+68,92768,6,Sales,New York,1.527861278495847,Male,High School
+64,81047,34,Engineering,Los Angeles,3.052732335027115,Male,PhD
+40,101626,27,Sales,San Francisco,1.7777905777267544,Female,High School
+33,87660,13,Engineering,New York,1.3727844782507788,Male,High School
+48,79786,9,HR,San Francisco,2.6419831762422183,Female,Master
+28,31925,15,Engineering,Los Angeles,1.653346592356229,Male,Bachelor
+33,113976,15,Marketing,Chicago,1.8871279127692744,Male,PhD
+25,56015,30,Marketing,New York,2.270218319478007,Male,Bachelor
+21,63320,41,Engineering,San Francisco,2.037553602972785,Female,PhD
+57,94881,24,Engineering,San Francisco,1.3503651896237856,Female,High School
+21,56289,12,Engineering,Los Angeles,1.3596649794388092,Male,Master
+42,33389,5,Sales,New York,1.7729976609366727,Female,Master
+20,55683,43,Engineering,Chicago,1.2022367518381558,Male,Bachelor
+49,43629,8,HR,San Francisco,3.5058280787077085,Female,Master
+20,91550,44,Sales,New York,2.149306866035608,Female,Bachelor
+44,54826,35,Sales,Chicago,2.118983871076284,Male,Bachelor
+46,56630,42,Engineering,San Francisco,2.3279931769510607,Male,PhD
+49,76163,19,HR,San Francisco,3.6511850968388866,Male,Bachelor
+67,96435,17,Sales,Chicago,4.482535525933962,Male,PhD
+68,41653,42,Marketing,Chicago,4.036347730222554,Male,Master
+36,57961,20,Sales,Los Angeles,3.91011692090038,Female,Bachelor
+38,111941,3,Engineering,New York,2.937564742403397,Female,Bachelor
+22,104137,32,HR,New York,3.775222227869647,Male,High School
+35,63662,26,Engineering,Los Angeles,3.2110494721343326,Male,Bachelor
+45,86446,6,Marketing,San Francisco,1.8650021127461156,Male,Bachelor
+59,51288,5,Marketing,Chicago,1.8343534709642029,Female,High School
+39,66877,14,Marketing,Chicago,2.1855680275011338,Male,High School
+38,45313,17,Engineering,Chicago,4.6432106838792535,Male,Master
+23,110885,31,Sales,San Francisco,3.1896593615189035,Female,Bachelor
+18,102715,10,Engineering,Chicago,3.9356215080074777,Female,Master
+22,40326,19,HR,Chicago,2.3862350392661904,Female,Master
+58,31560,23,Sales,Los Angeles,2.630863082660901,Female,High School
+29,109148,14,Marketing,San Francisco,1.5022623145490055,Male,PhD
+43,113186,6,Engineering,New York,1.6851798312866815,Female,Master
+63,56745,20,Marketing,Los Angeles,4.309426219304582,Female,PhD
+51,61890,41,Marketing,Los Angeles,3.3393545267555282,Male,Bachelor
+66,50022,25,HR,New York,2.3501298635352756,Male,High School
+31,82579,43,Sales,Los Angeles,4.211404835982184,Male,Bachelor
+43,100316,13,HR,San Francisco,1.986079622551932,Female,Bachelor
+62,113847,36,HR,Chicago,4.904130794400816,Male,High School
+44,58380,20,HR,San Francisco,2.379270430984679,Female,Bachelor
+26,32356,17,Marketing,New York,2.3492438166049103,Female,High School
+43,100326,4,HR,New York,2.247647622146821,Female,PhD
+64,119899,2,HR,Los Angeles,1.4884460636971517,Male,Bachelor
+39,50049,22,Sales,San Francisco,1.4445485893280496,Female,High School
+64,105717,25,Sales,San Francisco,3.5924201381364935,Male,Master
+47,46082,36,HR,New York,4.500472178232188,Male,Bachelor
+60,30661,23,Sales,San Francisco,4.162082041086694,Male,PhD
+65,67412,18,Sales,New York,1.5644303760854044,Female,High School
+34,32920,24,HR,San Francisco,3.1823284871682658,Female,Bachelor
+43,90315,20,Marketing,San Francisco,1.42236618390656,Female,Bachelor
+53,109561,11,HR,San Francisco,1.1811785744523098,Male,Bachelor
+18,38946,40,Sales,New York,3.625543437539069,Female,PhD
+25,75500,32,Marketing,Los Angeles,3.1406093347214012,Female,High School
+66,46309,3,Engineering,San Francisco,1.3280947408458834,Female,Master
+52,85230,41,Marketing,New York,1.1397569856239538,Female,Master
+69,60027,6,Sales,New York,4.9590256536373385,Female,Master
+32,102541,21,Marketing,San Francisco,1.1200853285962875,Male,High School
+64,89321,32,HR,San Francisco,2.7781130122006386,Male,Master
+39,30956,16,Engineering,Los Angeles,3.0184760984307824,Male,PhD
+31,104131,23,Engineering,New York,1.4691205912017802,Male,High School
+43,77908,33,Engineering,New York,1.676247113758865,Female,Bachelor
+45,108339,27,Sales,Chicago,2.40722002564141,Male,PhD
+40,55963,42,Sales,New York,4.0467035048546505,Female,Bachelor
+31,69443,40,Engineering,Los Angeles,3.028329696241067,Male,Master
+41,69063,38,Marketing,Chicago,3.551607498211846,Male,PhD
+19,110818,21,Engineering,Chicago,4.940698220362699,Male,High School
+62,34703,16,Marketing,Chicago,4.072021741252838,Female,PhD
+43,95128,33,Marketing,San Francisco,2.737445992564871,Female,Bachelor
+31,102099,5,Sales,San Francisco,2.785767687186195,Male,High School
+68,55849,5,Marketing,New York,3.47508830816402,Female,PhD
+24,61860,33,Engineering,Chicago,3.6614608336756174,Male,PhD
+20,61585,0,Sales,Los Angeles,3.0028437033466853,Male,PhD
+64,52015,9,HR,San Francisco,3.5794448912599197,Male,PhD
+40,107539,20,HR,Los Angeles,1.094129977656395,Female,High School
+63,73585,4,Sales,Los Angeles,2.7184914555873765,Male,Bachelor
+60,56958,1,Engineering,San Francisco,2.115752304293907,Male,PhD
+64,56017,21,HR,San Francisco,1.5166977809724416,Male,High School
+62,106707,1,HR,San Francisco,1.3981860512351005,Female,Bachelor
+35,75350,9,Marketing,San Francisco,3.41276866245867,Male,PhD
+55,42201,33,Marketing,Chicago,3.094402188610447,Female,Bachelor
